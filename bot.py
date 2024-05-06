@@ -6,7 +6,7 @@ from aiogram.filters import Command
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6749954105:AAFgCCKfXbk5NAt1DWbmodLBW2u-HCb5zSA'
+API_TOKEN = 'token'
 router = Router()
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
